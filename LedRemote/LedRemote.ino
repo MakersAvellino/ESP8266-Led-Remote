@@ -1,11 +1,11 @@
 #include <ESPAsyncWebServer.h> // asyncwebserver library
-#include <ESPAsyncTCP.h> // asynchTCP need for asynchwebserver
+#include <ESPAsyncTCP.h> // asynchTCP needed for asynchwebserver
 #include <ESP8266WiFi.h> //wifi library, included into the esp8266 core
 #include "index.h" //HTML webpage contents
 
 //SSID and Password of your WiFi router
-const char* ssid = "LenovoK6";
-const char* password = "demagogo91";
+const char* ssid = "Inserisci-qui-lo-ssid";
+const char* password = "Inserisci-qui-la-tua-password";
 
 AsyncWebServer server(80); //Server on port 80
 AsyncWebSocket ws("/ws"); //the websocket will listen on the same port of the webserver but redirected to ws
