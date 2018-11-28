@@ -1,7 +1,7 @@
 # ESP8266-Led-Remote
 Controlliamo da remoto il led on board del ESP8266
 
-Questo progetto è davvero molto semplice, se segui questi semplici passi anche tu sarai in grado di accendere o spegnere il led da remoto
+Questo progetto è davvero molto semplice, se segui questi semplici passi anche tu sarai in grado di accendere o spegnere il led da remoto, clona ed estrai questo progetto e posizionati nella cartella appena estratta.
 
 1: leggi il file "ESP8266 riassunto breve" il file è dentro la cartella LedRemote, nella prima pagina ti sarà spiegato come configurare l'IDE di arduino per poter programmare il tuo ESP8266
 
