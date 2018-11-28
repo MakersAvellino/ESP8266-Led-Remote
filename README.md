@@ -17,4 +17,4 @@ Questo progetto è davvero molto semplice, se segui questi semplici passi anche 
 
 7: Apri il browser da qualsialsi dispositivo, assicurati che sia connesso alla stessa rete del ESP8266 e inserisci l'indirizzo IP che ti è stato assengnato
 
-Ottimo, ora visualizzarai una pagina web nella quale saranno presenti due caselle, una che sfrutta il webServer per controllare il led e una che sfrutta il webSocket, entrambe potranno controllare il led, ma solo quella che sfrutta il webocket sarà in grado di accendere il led all'istante.
+Ottimo, ora visualizzarai una pagina web nella quale saranno presenti due caselle, una che sfrutta il webServer per controllare il led e una che sfrutta il webSocket, entrambe potranno controllare il led, ma solo quella che sfrutta il webSocket sarà in grado di accendere e spegnere il led all'istante.
