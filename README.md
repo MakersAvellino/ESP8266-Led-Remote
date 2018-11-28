@@ -5,7 +5,7 @@ Questo progetto è davvero molto semplice, se segui questi semplici passi anche 
 
 1: leggi il file "ESP8266 riassunto breve" il file è dentro la cartella LedRemote, nella prima pagina ti sarà spiegato come configurare l'IDE di arduino per poter programmare il tuo ESP8266
 
-2: Apri il file LedRemote.ino presente nella cartella LedRemote, poi vai a sketch-->#include libraries o includi libreria(dipende dalla lingua che si ha impostato all'interno dell'IDE) e cliccare su importa da zip, e quindi importare, uno alla volta le librerie presenti nella cartella generale di questo progetto.
+2: Apri il file LedRemote.ino presente nella cartella LedRemote, poi vai a sketch-->#include libraries o includi libreria(dipende dalla lingua che si ha impostato all'interno dell'IDE) e cliccare su importa da zip, e quindi importare, una alla volta le due librerie presenti nella cartella generale di questo progetto.
 
 3 Vai in impostazioni cliccando su file e spunta la casella visualizza numeri di linea
 
